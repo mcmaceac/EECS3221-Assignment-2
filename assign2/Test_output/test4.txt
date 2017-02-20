@@ -1,0 +1,5 @@
+alarm> 1 Testing Small Time
+Main Thread Received Alarm Request at 1487608885: 1 Testing Small Time
+alarm> Alarm Thread Passed on Alarm Request to Display Thread 2 at 1487608886: 1 Testing Small Time
+Display Thread 2: Received Alarm Request at 1487608886: 1 Testing Small Time, ExpiryTime is 1487608886
+Display Thread 2: Alarm Expired at 1487608886: 1 Testing Small Time

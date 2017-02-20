@@ -1,0 +1,11 @@
+alarm> 12 Lucky Rat Kappa Clause
+Main Thread Received Alarm Request at 1487609220: 12 Lucky Rat Kappa Clause
+alarm> Alarm Thread Passed on Alarm Request to Display Thread 2 at 1487609221: 12 Lucky Rat Kappa Clause
+Display Thread 2: Received Alarm Request at 1487609221: 12 Lucky Rat Kappa Clause, ExpiryTime is 1487609232
+Display Thread 2: Number of Seconds Left 11: Time: 1487609221: 12 Lucky Rat Kappa Clause
+Display Thread 2: Number of Seconds Left 9: Time: 1487609221: 12 Lucky Rat Kappa Clause
+Display Thread 2: Number of Seconds Left 7: Time: 1487609221: 12 Lucky Rat Kappa Clause
+Display Thread 2: Number of Seconds Left 5: Time: 1487609221: 12 Lucky Rat Kappa Clause
+Display Thread 2: Number of Seconds Left 3: Time: 1487609221: 12 Lucky Rat Kappa Clause
+Display Thread 2: Number of Seconds Left 1: Time: 1487609221: 12 Lucky Rat Kappa Clause
+Display Thread 2: Alarm Expired at 1487609233: 12 Lucky Rat Kappa Clause

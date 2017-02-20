@@ -1,0 +1,13 @@
+alarm> 17 Talented Porcupine
+Main Thread Received Alarm Request at 1487609276: 17 Talented Porcupine
+alarm> Alarm Thread Passed on Alarm Request to Display Thread 1 at 1487609277: 17 Talented Porcupine
+Display Thread 1: Received Alarm Request at 1487609277: 17 Talented Porcupine, ExpiryTime is 1487609293
+Display Thread 1: Number of Seconds Left 16: Time: 1487609277: 17 Talented Porcupine
+Display Thread 1: Number of Seconds Left 14: Time: 1487609277: 17 Talented Porcupine
+Display Thread 1: Number of Seconds Left 12: Time: 1487609277: 17 Talented Porcupine
+Display Thread 1: Number of Seconds Left 10: Time: 1487609277: 17 Talented Porcupine
+Display Thread 1: Number of Seconds Left 8: Time: 1487609277: 17 Talented Porcupine
+Display Thread 1: Number of Seconds Left 6: Time: 1487609277: 17 Talented Porcupine
+Display Thread 1: Number of Seconds Left 4: Time: 1487609277: 17 Talented Porcupine
+Display Thread 1: Number of Seconds Left 2: Time: 1487609277: 17 Talented Porcupine
+Display Thread 1: Alarm Expired at 1487609293: 17 Talented Porcupine

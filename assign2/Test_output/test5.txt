@@ -1,0 +1,11 @@
+alarm> 13 Applepen
+Main Thread Received Alarm Request at 1487608932: 13 Applepen
+alarm> Alarm Thread Passed on Alarm Request to Display Thread 1 at 1487608933: 13 Applepen
+Display Thread 1: Received Alarm Request at 1487608933: 13 Applepen, ExpiryTime is 1487608945
+Display Thread 1: Number of Seconds Left 12: Time: 1487608933: 13 Applepen
+Display Thread 1: Number of Seconds Left 10: Time: 1487608933: 13 Applepen
+Display Thread 1: Number of Seconds Left 8: Time: 1487608933: 13 Applepen
+Display Thread 1: Number of Seconds Left 6: Time: 1487608933: 13 Applepen
+Display Thread 1: Number of Seconds Left 4: Time: 1487608933: 13 Applepen
+Display Thread 1: Number of Seconds Left 2: Time: 1487608933: 13 Applepen
+Display Thread 1: Alarm Expired at 1487608945: 13 Applepen
