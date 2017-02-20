@@ -135,7 +135,7 @@ void *display_thread_1(void *arg)
         alarm = current_alarm;
 	/* Message to indicate that display thread 1 has received the alarm */
 	printf("Display Thread 1: Received Alarm Request at %d: %d %s,"
-		"ExpiryTime is %d \n", time (NULL), alarm->seconds,
+		" ExpiryTime is %d \n", time (NULL), alarm->seconds,
 		alarm->message, alarm->time);
 	now = time (NULL);
 	/* While the alarm has yet to expiry, print a message every 2 seconds */
@@ -182,7 +182,7 @@ void *display_thread_2(void *arg)
         alarm = current_alarm;
 	/* Message to indicate that display thread 2 has received the alarm */
 	printf("Display Thread 2: Received Alarm Request at %d: %d %s,"
-		"ExpiryTime is %d \n", time (NULL), alarm->seconds,
+		" ExpiryTime is %d \n", time (NULL), alarm->seconds,
 		alarm->message, alarm->time);
 	now = time (NULL);
 	/* While the alarm has yet to expiry, print a message every 2 seconds */
