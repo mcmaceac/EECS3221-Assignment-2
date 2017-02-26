@@ -1,4 +1,4 @@
-larm> 5a
+alarm> 5a
 Main Thread Received Alarm Request at 1488125496: 5 a
 alarm> 5b
 Main Thread Received Alarm Request at 1488125496: 5 b
@@ -30,4 +30,3 @@ Display Thread 1: Alarm Expired at 1488125504: 5 b
 Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488125505: 5 a
 Display Thread 1: Received Alarm Request at 1488125505: 5 a, ExpiryTime is 1488125501
 Display Thread 1: Alarm Expired at 1488125505: 5 a
-
