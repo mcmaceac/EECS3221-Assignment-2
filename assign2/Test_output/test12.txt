@@ -1,0 +1,33 @@
+larm> 5a
+Main Thread Received Alarm Request at 1488125496: 5 a
+alarm> 5b
+Main Thread Received Alarm Request at 1488125496: 5 b
+alarm> 5c
+Main Thread Received Alarm Request at 1488125496: 5 c
+alarm> 5d
+Main Thread Received Alarm Request at 1488125496: 5 d
+alarm> 5e
+Main Thread Received Alarm Request at 1488125496: 5 e
+alarm> 5f
+Main Thread Received Alarm Request at 1488125496: 5 f
+alarm> Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488125497: 5 f
+Display Thread 1: Received Alarm Request at 1488125497: 5 f, ExpiryTime is 1488125501
+Display Thread 1: Number of Seconds Left 4: Time: 1488125497: 5 f
+Display Thread 1: Number of Seconds Left 2: Time: 1488125497: 5 f
+Display Thread 1: Alarm Expired at 1488125501: 5 f
+Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488125501: 5 e
+Display Thread 1: Received Alarm Request at 1488125501: 5 e, ExpiryTime is 1488125501
+Display Thread 1: Alarm Expired at 1488125501: 5 e
+Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488125502: 5 d
+Display Thread 1: Received Alarm Request at 1488125502: 5 d, ExpiryTime is 1488125501
+Display Thread 1: Alarm Expired at 1488125502: 5 d
+Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488125503: 5 c
+Display Thread 1: Received Alarm Request at 1488125503: 5 c, ExpiryTime is 1488125501
+Display Thread 1: Alarm Expired at 1488125503: 5 c
+Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488125504: 5 b
+Display Thread 1: Received Alarm Request at 1488125504: 5 b, ExpiryTime is 1488125501
+Display Thread 1: Alarm Expired at 1488125504: 5 b
+Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488125505: 5 a
+Display Thread 1: Received Alarm Request at 1488125505: 5 a, ExpiryTime is 1488125501
+Display Thread 1: Alarm Expired at 1488125505: 5 a
+
