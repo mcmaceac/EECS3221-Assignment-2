@@ -1,4 +1,4 @@
-larm> 12a
+alarm> 12a
 Main Thread Received Alarm Request at 1488128321: 12 a
 alarm> 43b
 Main Thread Received Alarm Request at 1488128321: 43 b
@@ -167,4 +167,3 @@ Alarm Thread Passed on Alarm Request to Display Thread 2 at 1488128406: 87 c
 Display Thread 2: Received Alarm Request at 1488128406: 87 c, ExpiryTime is 1488128408
 Display Thread 2: Number of Seconds Left 2: Time: 1488128406: 87 c
 Display Thread 2: Alarm Expired at 1488128408: 87 c
-
