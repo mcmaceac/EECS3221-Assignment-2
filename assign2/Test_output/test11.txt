@@ -1,0 +1,15 @@
+alarm> 3e
+Main Thread Received Alarm Request at 1488124306: 3 e
+alarm> 9r
+Main Thread Received Alarm Request at 1488124306: 9 r
+alarm> Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488124307: 3 e
+Display Thread 1: Received Alarm Request at 1488124307: 3 e, ExpiryTime is 1488124309
+Display Thread 1: Number of Seconds Left 2: Time: 1488124307: 3 e
+Display Thread 1: Alarm Expired at 1488124309: 3 e
+Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488124309: 9 r
+Display Thread 1: Received Alarm Request at 1488124309: 9 r, ExpiryTime is 1488124315
+Display Thread 1: Number of Seconds Left 6: Time: 1488124309: 9 r
+Display Thread 1: Number of Seconds Left 4: Time: 1488124309: 9 r
+Display Thread 1: Number of Seconds Left 2: Time: 1488124309: 9 r
+Display Thread 1: Alarm Expired at 1488124315: 9 r
+
