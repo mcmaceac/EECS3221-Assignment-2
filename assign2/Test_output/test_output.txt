@@ -12,7 +12,8 @@ Display Thread 2: Number of Seconds Left 7: Time: 1487608257: 20 POSIX IS SO FUN
 Display Thread 2: Number of Seconds Left 5: Time: 1487608257: 20 POSIX IS SO FUN
 Display Thread 2: Number of Seconds Left 3: Time: 1487608257: 20 POSIX IS SO FUN
 Display Thread 2: Number of Seconds Left 1: Time: 1487608257: 20 POSIX IS SO FUN
-Display Thread 2: Alarm Expired at 1487608277: 20 POSIX IS SO FUNalarm> 13 3221 Best Group is the Best 3221 Group
+Display Thread 2: Alarm Expired at 1487608277: 20 POSIX IS SO FUN
+alarm> 13 3221 Best Group is the Best 3221 Group
 Main Thread Received Alarm Request at 1487608357: 13 3221 Best Group is the Best 3221 Group
 alarm> Alarm Thread Passed on Alarm Request to Display Thread 2 at 1487608358: 13 3221 Best Group is the Best 3221 Group
 Display Thread 2: Received Alarm Request at 1487608358: 13 3221 Best Group is the Best 3221 Group, ExpiryTime is 1487608370
@@ -22,7 +23,8 @@ Display Thread 2: Number of Seconds Left 8: Time: 1487608358: 13 3221 Best Group
 Display Thread 2: Number of Seconds Left 6: Time: 1487608358: 13 3221 Best Group is the Best 3221 Group
 Display Thread 2: Number of Seconds Left 4: Time: 1487608358: 13 3221 Best Group is the Best 3221 Group
 Display Thread 2: Number of Seconds Left 2: Time: 1487608358: 13 3221 Best Group is the Best 3221 Group
-Display Thread 2: Alarm Expired at 1487608370: 13 3221 Best Group is the Best 3221 Groupalarm> 400 Testing Large Time
+Display Thread 2: Alarm Expired at 1487608370: 13 3221 Best Group is the Best 3221 Group
+alarm> 400 Testing Large Time
 Main Thread Received Alarm Request at 1487608431: 400 Testing Large Time
 alarm> Alarm Thread Passed on Alarm Request to Display Thread 1 at 1487608431: 400 Testing Large Time
 Display Thread 1: Received Alarm Request at 1487608431: 400 Testing Large Time, ExpiryTime is 1487608831
@@ -231,7 +233,8 @@ alarm> 1 Testing Small Time
 Main Thread Received Alarm Request at 1487608885: 1 Testing Small Time
 alarm> Alarm Thread Passed on Alarm Request to Display Thread 2 at 1487608886: 1 Testing Small Time
 Display Thread 2: Received Alarm Request at 1487608886: 1 Testing Small Time, ExpiryTime is 1487608886
-Display Thread 2: Alarm Expired at 1487608886: 1 Testing Small Timealarm> 13 Applepen
+Display Thread 2: Alarm Expired at 1487608886: 1 Testing Small Time
+alarm> 13 Applepen
 Main Thread Received Alarm Request at 1487608932: 13 Applepen
 alarm> Alarm Thread Passed on Alarm Request to Display Thread 1 at 1487608933: 13 Applepen
 Display Thread 1: Received Alarm Request at 1487608933: 13 Applepen, ExpiryTime is 1487608945
@@ -241,7 +244,8 @@ Display Thread 1: Number of Seconds Left 8: Time: 1487608933: 13 Applepen
 Display Thread 1: Number of Seconds Left 6: Time: 1487608933: 13 Applepen
 Display Thread 1: Number of Seconds Left 4: Time: 1487608933: 13 Applepen
 Display Thread 1: Number of Seconds Left 2: Time: 1487608933: 13 Applepen
-Display Thread 1: Alarm Expired at 1487608945: 13 Applepenalarm> 24 Sparkling Woodcock Corgi Derp
+Display Thread 1: Alarm Expired at 1487608945: 13 Applepen
+alarm> 24 Sparkling Woodcock Corgi Derp
 Main Thread Received Alarm Request at 1487609033: 24 Sparkling Woodcock Corgi Derp
 alarm> Alarm Thread Passed on Alarm Request to Display Thread 1 at 1487609033: 24 Sparkling Woodcock Corgi Derp
 Display Thread 1: Received Alarm Request at 1487609033: 24 Sparkling Woodcock Corgi Derp, ExpiryTime is 1487609057
@@ -264,7 +268,8 @@ alarm> Alarm Thread Passed on Alarm Request to Display Thread 2 at 1487609169: 3
 Display Thread 2: Received Alarm Request at 1487609169: 3 Beautiful Nightingale DansGame, ExpiryTime is 1487609172
 Display Thread 2: Number of Seconds Left 3: Time: 1487609169: 3 Beautiful Nightingale DansGame
 Display Thread 2: Number of Seconds Left 1: Time: 1487609169: 3 Beautiful Nightingale DansGame
-Display Thread 2: Alarm Expired at 1487609173: 3 Beautiful Nightingale DansGamealarm> 12 Lucky Rat Kappa Clause
+Display Thread 2: Alarm Expired at 1487609173: 3 Beautiful Nightingale DansGame
+alarm> 12 Lucky Rat Kappa Clause
 Main Thread Received Alarm Request at 1487609220: 12 Lucky Rat Kappa Clause
 alarm> Alarm Thread Passed on Alarm Request to Display Thread 2 at 1487609221: 12 Lucky Rat Kappa Clause
 Display Thread 2: Received Alarm Request at 1487609221: 12 Lucky Rat Kappa Clause, ExpiryTime is 1487609232
@@ -274,7 +279,8 @@ Display Thread 2: Number of Seconds Left 7: Time: 1487609221: 12 Lucky Rat Kappa
 Display Thread 2: Number of Seconds Left 5: Time: 1487609221: 12 Lucky Rat Kappa Clause
 Display Thread 2: Number of Seconds Left 3: Time: 1487609221: 12 Lucky Rat Kappa Clause
 Display Thread 2: Number of Seconds Left 1: Time: 1487609221: 12 Lucky Rat Kappa Clause
-Display Thread 2: Alarm Expired at 1487609233: 12 Lucky Rat Kappa Clausealarm> 17 Talented Porcupine
+Display Thread 2: Alarm Expired at 1487609233: 12 Lucky Rat Kappa Clause
+alarm> 17 Talented Porcupine
 Main Thread Received Alarm Request at 1487609276: 17 Talented Porcupine
 alarm> Alarm Thread Passed on Alarm Request to Display Thread 1 at 1487609277: 17 Talented Porcupine
 Display Thread 1: Received Alarm Request at 1487609277: 17 Talented Porcupine, ExpiryTime is 1487609293
@@ -286,7 +292,8 @@ Display Thread 1: Number of Seconds Left 8: Time: 1487609277: 17 Talented Porcup
 Display Thread 1: Number of Seconds Left 6: Time: 1487609277: 17 Talented Porcupine
 Display Thread 1: Number of Seconds Left 4: Time: 1487609277: 17 Talented Porcupine
 Display Thread 1: Number of Seconds Left 2: Time: 1487609277: 17 Talented Porcupine
-Display Thread 1: Alarm Expired at 1487609293: 17 Talented Porcupinealarm> bad input
+Display Thread 1: Alarm Expired at 1487609293: 17 Talented Porcupine
+alarm> bad input
 Bad command
 alarm> %!@#%^!@#
 Bad command
@@ -340,7 +347,8 @@ Display Thread 1: Received Alarm Request at 1488125504: 5 b, ExpiryTime is 14881
 Display Thread 1: Alarm Expired at 1488125504: 5 b
 Alarm Thread Passed on Alarm Request to Display Thread 1 at 1488125505: 5 a
 Display Thread 1: Received Alarm Request at 1488125505: 5 a, ExpiryTime is 1488125501
-Display Thread 1: Alarm Expired at 1488125505: 5 a alarm> 12a
+Display Thread 1: Alarm Expired at 1488125505: 5 a 
+alarm> 12a
 Main Thread Received Alarm Request at 1488128321: 12 a
 alarm> 43b
 Main Thread Received Alarm Request at 1488128321: 43 b
