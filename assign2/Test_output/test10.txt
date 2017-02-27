@@ -1,9 +1,0 @@
-alarm> bad input
-Bad command
-alarm> %!@#%^!@#
-Bad command
-alarm> &$%^!@#$
-Bad command
-alarm> I should read the README
-Bad command
-alarm>

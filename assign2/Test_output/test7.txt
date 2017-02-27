@@ -1,7 +1,0 @@
-alarm> 3 Beautiful Nightingale DansGame
-Main Thread Received Alarm Request at 1487609169: 3 Beautiful Nightingale DansGame
-alarm> Alarm Thread Passed on Alarm Request to Display Thread 2 at 1487609169: 3 Beautiful Nightingale DansGame
-Display Thread 2: Received Alarm Request at 1487609169: 3 Beautiful Nightingale DansGame, ExpiryTime is 1487609172
-Display Thread 2: Number of Seconds Left 3: Time: 1487609169: 3 Beautiful Nightingale DansGame
-Display Thread 2: Number of Seconds Left 1: Time: 1487609169: 3 Beautiful Nightingale DansGame
-Display Thread 2: Alarm Expired at 1487609173: 3 Beautiful Nightingale DansGame
